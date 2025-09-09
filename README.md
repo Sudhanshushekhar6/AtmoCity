@@ -1,4 +1,4 @@
-# 🌤️ AtmoCity – Real-Time Weather App
+# 🌤️ AtmoCity – Weather at your fingerTips
 
 AtmoCity is a **React-based weather application** built with **Vite, CSS, and the OpenWeather API**.  
 Enter any city name, and get **real-time weather information** instantly.
